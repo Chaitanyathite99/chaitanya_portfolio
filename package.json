@@ -1,0 +1,11 @@
+{
+  "name": "chaitanya-thite-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A playful personal portfolio with a Python API and Node.js frontend.",
+  "scripts": {
+    "start": "node server.mjs",
+    "api": "python3 api.py"
+  }
+}
+
